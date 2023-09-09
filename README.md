@@ -1,5 +1,5 @@
 **DATA ANALYST PROJECTS**
-                                                   This repsitory contains projects including MySQL,Tableau,Excel,Power BI and python
+      This repsitory contains projects including MySQL,Tableau,Excel,Power BI and python
 
 **PROJECT 1:**
           This project is about exploring the dataset of covid-19 in **MySQL** using multiple queries such as partition by,joining the tables,using the group by,order by,where clauses.
