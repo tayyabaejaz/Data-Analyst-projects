@@ -15,8 +15,11 @@
 
 **PROJECT 4:**
           This project is built on **Power BI** using power queries to clean the data,and  simple dashboard for the visulaizations obtained from the data. 
+          
 
 **PROJECT 5:**
           This is a simple web scraping project in which data is scraped from the following link's first table: **https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue**  transformed that data into a dataframe and save it as a csv.
+
+          
 **PROJECT CRYPTO DATA UPDATE:**
 this project is made by pulling the api of crypto data **https://coinmarketcap.com/ **,what this prject does it automatically updates the csv file when the code is ran and csv downloaded shows the recent changes in the values of crypto currency.Using the tools **Jupiter notebook**
